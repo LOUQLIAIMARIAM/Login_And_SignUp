@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="user">user name</string>
+    <string name="password">passsword</string>
+    <string name="Login">Login</string>
+    <string name="loginhere">Login here</string>
+    <string name="signup">Signup</string>
+    <string name="signuphere">Signup here</string>
+    <string name="username">User Name</string>
+    <string name="fullname">Full name</string>
+    <string name="email">Email</string>
+    <string name="string">SignUp</string>
+</resources>
